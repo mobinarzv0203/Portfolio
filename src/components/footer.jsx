@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
-    <footer className="bg-green-500 text-white py-6 text-center">
-      <p>&copy; {new Date().getFullYear()} John Doe. All rights reserved.</p>
+    <footer className="bg-[#ECECEC] text-[#E67E22] py-6 text-center">
+      <p>&copy; {new Date().getFullYear()} Mobina Razavi. All rights reserved.</p>
     </footer>
   );
 };
